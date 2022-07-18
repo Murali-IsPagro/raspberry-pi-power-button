@@ -5,7 +5,7 @@ from signal import pause
 from gpiozero import Button
 import os
 
-use_button = 3  # pin 5
+use_button = 21  # pin 40
 held_for = 0.0
 Button.pressed_time = None
 
