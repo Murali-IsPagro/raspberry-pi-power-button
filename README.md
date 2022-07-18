@@ -26,13 +26,13 @@ sudo apt install python3-gpiozero
 This will install the script as `service` and it will run at boot
 
 ```bash
-curl https://raw.githubusercontent.com/fire1ce/raspberry-pi-power-button/main/install.sh | bash
+curl https://raw.githubusercontent.com/Murali-IsPagro/raspberry-pi-power-button/main/install.sh | bash
 ```
 
 ## Uninstall
 
 ```bash
-curl https://raw.githubusercontent.com/fire1ce/raspberry-pi-power-button/main/uninstall.sh | bash
+curl https://raw.githubusercontent.com/Murali-IsPagro/raspberry-pi-power-button/main/uninstall.sh | bash
 ```
 
 ## Default Behavior
